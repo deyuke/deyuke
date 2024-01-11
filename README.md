@@ -5,13 +5,13 @@
 
 - 💬 Ask me about **ReactJS, Tailwind CSS**
 
-- 📫 How to reach me **https://www.linkedin.com/in/devran-yusuf-kehya-a97765245/**
+- 📫 How to reach me **https://www.linkedin.com/in/dykehya/**
 
 - ⚡ Fun fact **I love music and modern art**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/devran-yusuf-kehya-a97765245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devran-yusuf-kehya-a97765245" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dykehya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devran-yusuf-kehya-a97765245" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
